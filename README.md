@@ -1,2 +1,2 @@
 # Imersao-Fulsstack-TreinaWeb
-Imersão FllStack realizada pela TreinaWeb
+Imersão FullStack realizada pela TreinaWeb
